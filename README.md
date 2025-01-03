@@ -4,4 +4,4 @@
 - 🛠️ Currently working on [InfoPaseos](https://infopaseos.com)  
 
 #### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,supabase&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,nextjs,supabase,ts&theme=dark)](https://skillicons.dev)
