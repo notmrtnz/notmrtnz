@@ -1,6 +1,5 @@
 ### Software Developer
 
-- 🔍 Building software that I like
 - 🛠️ Currently working on [InfoPaseos](https://infopaseos.com)  
 
 #### Tech Stack
