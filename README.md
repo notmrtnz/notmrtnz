@@ -1,4 +1,4 @@
-### Software Developer
+### Web Developer
 
 - 🛠️ Currently working on [InfoPaseos](https://infopaseos.com)  
 
